@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+.pnp.*
+.yarn/cache
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data/coverage
+coverage/
+.nyc_output
+.env
+.env.test
+
+# Build outputs
+dist/
+build/
+.cache/
+.parcel-cache
+.next/
+.nuxt/
+
+# IDE/OS files
+.DS_Store
+.vscode/
